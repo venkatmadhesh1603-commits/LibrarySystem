@@ -1,7 +1,7 @@
-# Library-Management-System
-# Reg No:
-# Name:
-# Date:
+
+# Reg No:212225040214
+# Name:MADHESH V
+# Date:04/11/2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/66816d10-3e4c-42d4-a043-701fdbbaa68a" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1547" height="920" alt="image" src="https://github.com/user-attachments/assets/c4ec0f52-f46e-41a3-8667-e65a92c07cbd" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/0fdd119c-c4e7-4346-b1bd-1b2c96e6683d" />
 
 
 
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/b6da94a1-4d2d-4021-a06b-27b5670a0ef9" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a507b889-cf0c-46be-99d5-9b5f38a8ddee" />
 
 
 
@@ -115,8 +120,9 @@ Represent the details of UML use cases.
 
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
-Plan and understand the detailed functionality of an existing or future scenario.
+Plan and understand the detailed functionality of an existing or future scene
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/968c85bc-4aee-4ef2-9d57-86fa72015c01" />
 
 
 
